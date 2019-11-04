@@ -3,4 +3,4 @@ Scrpit para organizar fotos criando pastas no formato ANO e MÊS e movimentos el
 
 
 <br><br>
-<i>Realizado em #Mão no Código - Código Fonte TV</i>
+<i>Realização baseado pela fonte #Mão no Código - Código Fonte TV</i>
